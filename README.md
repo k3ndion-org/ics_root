@@ -1,4 +1,5 @@
-Project infrastructure
+#The Application Infrastructure Description
+
 #server-api
 1.  Use Nestjs as a progressive framework for building efficient and scalable server-side app.
 2.  Use Fusedb to store data. (will be move to MongoDb in future)
