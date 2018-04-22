@@ -1,1 +1,4 @@
-"# todo-native-app" 
+#npm
+npm install
+ionic serve
+
